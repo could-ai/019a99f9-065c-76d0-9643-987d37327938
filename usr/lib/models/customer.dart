@@ -1,3 +1,5 @@
+import 'package:couldai_user_app/models/guarantor.dart';
+
 class Customer {
   final String fullName;
   final String nic;
